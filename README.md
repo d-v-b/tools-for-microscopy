@@ -18,6 +18,7 @@ I don't have experience with most of these packages; I just wanted to make a com
 - [flika](https://github.com/flika-org/flika)
 - [pyqtgraph](https://github.com/pyqtgraph/pyqtgraph)
 - [SIMA](https://github.com/losonczylab/sima)
+- [BigDataViewer](https://github.com/bigdataviewer)
 
 ### Modeling
 - [MicroscPSF](https://github.com/MicroscPSF)
