@@ -19,6 +19,11 @@ I don't have experience with most of these packages; I just wanted to make a com
 - [pyqtgraph](https://github.com/pyqtgraph/pyqtgraph)
 - [SIMA](https://github.com/losonczylab/sima)
 - [BigDataViewer](https://github.com/bigdataviewer)
+- [CellProfiler](http://cellprofiler.org/)
+- [Scikit-image](https://github.com/scikit-image/scikit-image)
+- [Mahotas](https://github.com/luispedro/mahotas)
+- [ilastik](https://github.com/ilastik)
+- [OMERO](https://github.com/openmicroscopy/openmicroscopy)
 
 ### Modeling
 - [MicroscPSF](https://github.com/MicroscPSF)
