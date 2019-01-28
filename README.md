@@ -11,6 +11,7 @@ I don't have experience with most of these packages; I just wanted to make a com
 - [microscope](https://github.com/MicronOxford/microscope)
 - [OpenStage](https://github.com/raacampbell/openstage)
 - [NicoLase](https://github.com/PRNicovich/NicoLase)
+- [Instrumental](https://github.com/mabuchilab/Instrumental)
 
 ### Image display / processing
 - [Imagej](https://github.com/imagej/imagej)
